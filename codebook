@@ -1,0 +1,16 @@
+this file describes the meaning of each variables
+subject: A label column represent the individual who take the experiment.
+Activity: A Label column used to mark the activity type.
+
+The remaining 79 variables are the combination of following words, they means:
+  Acc: acceleration
+  Jerk: Jerk
+  Gyro: gyroscope
+  Mag: Mag
+  Gravity: Gravity
+  Body: Body
+  X: the X axis
+  Y: the Y axis
+  Z: the Z axis
+  mean: mean
+  std: standard deviation
